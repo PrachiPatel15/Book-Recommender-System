@@ -15,10 +15,19 @@ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
   - Books.csv
   - Ratings.csv
   - Users.csv
+- After downloading 3 of them, you can start cleaning and building a model.
+- In this project, **Cosine Similarity** was used for building collaborative filtering recommender system.
  
 ## Code and Resources Used
 - ***Python Version:*** 3.9
 - ***Packages:*** Streamlit
 - ***For Web Framework Requirements:*** ```pip install -r requirements.txt```
+
+## Conclusion 
+- Both Popularity and Collaborative firterling are working at some extend.
+- In collaborative filtering, cosine similarity pays huge role and it's results were more consistent.
+- Here is some of the pictures from the web app.
+- ![](https://github.com/PrachiPatel15/Book-Recommender-System/blob/main/webapp-1.png)
+- ![](https://github.com/PrachiPatel15/Book-Recommender-System/blob/main/webapp-2.png) 
 
 
