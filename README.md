@@ -7,4 +7,4 @@
 - ***For Web Framework Requirements:*** ```pip install -r requirements.txt```
 
 ## Data
-![](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
