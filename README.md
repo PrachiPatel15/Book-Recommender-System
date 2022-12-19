@@ -7,7 +7,8 @@
   - And in this project the major concern was to focus on user ratings and make recommendation based on that
 - At the beginning data merging and data cleaning was performed.
 - **Streamlit**'framework was being used and web app was created.
-- The web app was then deployed on **Heroku**.
+- The web app was then deployed on **Streamlit Cloud**.
+- Link: https://prachipatel15-book-recommender-system-app-batk0m.streamlit.app/
 
 ## Data
 https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
